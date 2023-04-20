@@ -1,0 +1,14 @@
+**/__pycache__/*
+**/*.pth
+slides/
+**/*.tar
+*.pub
+hpml
+ak9300@nyu.edu/*
+bert/*
+**/*.zip
+*.zip
+**/output
+**/output/*
+**/*.tar.gz
+**/.DS_STORE*
